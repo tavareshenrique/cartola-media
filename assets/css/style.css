@@ -1,0 +1,25 @@
+ body {
+     padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+
+    body {
+        padding-top: 56px;
+    }
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.resultado-titulo {
+    margin-top: 10px;
+    display:none;
+}
+
+.resultado {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 150px;
+}
