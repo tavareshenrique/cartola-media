@@ -14,11 +14,11 @@ Baixa o repositório e e execute o `index.html`, informe a média da primeira ro
 
 ## Contribuindo
 
-Leia [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e sobre o processo de envio de solicitações de recebimento para nós.
+Leia [CONTRIBUTING.md](https://github.com/tavareshenrique/cartola-media/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e sobre o processo de envio de solicitações de recebimento para nós.
 
 ## Versão
 
-- 1.0.1
+- [1.0.1](https://github.com/tavareshenrique/cartola-media/blob/master/CHANGELOG.md)
 
 ## Autores
 
@@ -40,4 +40,4 @@ Leia [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/tavareshenrique/cartola-media/blob/master/LICENSE.md) para obter detalhes.
