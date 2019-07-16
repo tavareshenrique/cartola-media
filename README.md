@@ -1,6 +1,6 @@
 # Cartola Média
 
-É um projeto simples feito utilizando HTML5, CSS3 e JavaScript puro para cálculara média mínima que o jogador deve tirar na segunda rodada do game.
+É um projeto simples feito utilizando HTML5, CSS3 e JavaScript puro para calcular a média mínima que o jogador deve tirar na segunda rodada do game.
 
 ## Instalando e Executando
 
